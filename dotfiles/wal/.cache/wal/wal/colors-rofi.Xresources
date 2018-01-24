@@ -1,0 +1,5 @@
+! Rofi
+rofi.color-window: #31272b, #31272b, #95A8B4
+rofi.color-normal: #31272b, #dee3e9, #31272b, #95A8B4, #31272b
+rofi.color-active: #31272b, #dee3e9, #31272b, #95A8B4, #31272b
+rofi.color-urgent: #31272b, #959CA0,     #31272b, #959CA0,  #dee3e9

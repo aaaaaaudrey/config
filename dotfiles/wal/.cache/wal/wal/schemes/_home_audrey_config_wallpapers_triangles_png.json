@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/audrey/config/wallpapers/triangles.png",
+    "alpha": "100",
+    "special": {
+        "background": "#151e39",
+        "foreground": "#e4dbba",
+        "cursor": "#e4dbba"
+    },
+    "colors": {
+        "color0": "#151e39",
+        "color1": "#CC6061",
+        "color2": "#D06869",
+        "color3": "#EC837C",
+        "color4": "#D6AE62",
+        "color5": "#D8C769",
+        "color6": "#E29A89",
+        "color7": "#e4dbba",
+        "color8": "#9f9982",
+        "color9": "#CC6061",
+        "color10": "#D06869",
+        "color11": "#EC837C",
+        "color12": "#D6AE62",
+        "color13": "#D8C769",
+        "color14": "#E29A89",
+        "color15": "#e4dbba"
+    }
+}

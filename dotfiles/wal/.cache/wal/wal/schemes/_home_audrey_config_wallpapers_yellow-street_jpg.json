@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/audrey/config/wallpapers/yellow-street.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#211004",
+        "foreground": "#e2cb9c",
+        "cursor": "#e2cb9c"
+    },
+    "colors": {
+        "color0": "#211004",
+        "color1": "#B06E10",
+        "color2": "#9D4F2B",
+        "color3": "#9E5F20",
+        "color4": "#CE7116",
+        "color5": "#708E69",
+        "color6": "#DF9819",
+        "color7": "#e2cb9c",
+        "color8": "#9e8e6d",
+        "color9": "#B06E10",
+        "color10": "#9D4F2B",
+        "color11": "#9E5F20",
+        "color12": "#CE7116",
+        "color13": "#708E69",
+        "color14": "#DF9819",
+        "color15": "#e2cb9c"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/audrey/config/wallpapers/foggy-forest.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#28121e",
+        "foreground": "#ced1b1",
+        "cursor": "#ced1b1"
+    },
+    "colors": {
+        "color0": "#28121e",
+        "color1": "#5D7663",
+        "color2": "#5D8D2B",
+        "color3": "#678A5D",
+        "color4": "#728C6B",
+        "color5": "#9A8F73",
+        "color6": "#8FA270",
+        "color7": "#ced1b1",
+        "color8": "#90927b",
+        "color9": "#5D7663",
+        "color10": "#5D8D2B",
+        "color11": "#678A5D",
+        "color12": "#728C6B",
+        "color13": "#9A8F73",
+        "color14": "#8FA270",
+        "color15": "#ced1b1"
+    }
+}

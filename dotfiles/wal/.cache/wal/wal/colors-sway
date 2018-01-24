@@ -1,0 +1,21 @@
+set $wallpaper /home/audrey/config/wallpapers/purple-forest.jpg
+
+set $background #31272b
+set $foreground #dee3e9
+
+set $color0 #31272b
+set $color1 #959CA0
+set $color2 #95A8B4
+set $color3 #C0A9BD
+set $color4 #A8B9C6
+set $color5 #B8C7D4
+set $color6 #BED0E1
+set $color7 #dee3e9
+set $color8 #9b9ea3
+set $color9 #959CA0
+set $color10 #95A8B4
+set $color11 #C0A9BD
+set $color12 #A8B9C6
+set $color13 #B8C7D4
+set $color14 #BED0E1
+set $color15 #dee3e9
