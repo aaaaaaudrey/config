@@ -1,0 +1,13 @@
+URxvt.cursorBlink: true
+URxvt.saveLines: 5000
+
+! Disable scrollbar
+URxvt.scrollBar: false
+
+! Transparency
+! urxvt.depth: 32
+! URxvt.background: [30]#000000
+
+! Selectable URLs
+URxvt.url-select.launcher: /usr/bin/firefox
+URxvt.url-select.underline: true
